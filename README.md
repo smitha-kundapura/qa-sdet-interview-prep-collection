@@ -18,7 +18,7 @@ Quick reference guide for QA, SDET, and Quality Engineers preparing for intervie
 - **[sql-interview-cheatsheet.md](sql-interview-cheatsheet.md)**  
   A concise cheat sheet covering basic to advanced SQL concepts, including joins, aggregate and window functions, performance tips, and advanced topics like indexes and CTEs.
 
-- **[selenium-java-testng-guide.md](selenium-java-testng-guide.md**  
+- **[selenium-java-testng-guide.md](selenium-java-testng-guide.md)**  
   This article walks you through the Selenium-based Java automation framework for testing Amazon’s search functionality using Page Object Model (POM), TestNG, and integrated **Allure reporting** for enhanced visibility of test results.
 
 ---
